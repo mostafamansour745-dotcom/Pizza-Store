@@ -149,7 +149,7 @@
             this.grOrderSummary.Size = new System.Drawing.Size(452, 538);
             this.grOrderSummary.TabIndex = 3;
             this.grOrderSummary.TabStop = false;
-            this.grOrderSummary.Enter += new System.EventHandler(this.grOrderSummary_Enter);
+           
             // 
             // pictureBox1
             // 
@@ -215,7 +215,7 @@
             this.labelTopping.Size = new System.Drawing.Size(98, 23);
             this.labelTopping.TabIndex = 6;
             this.labelTopping.Text = "Toppings : ";
-            this.labelTopping.Click += new System.EventHandler(this.labelTopping_Click);
+            
             // 
             // lblTotalPrice
             // 
@@ -236,7 +236,7 @@
             this.lblWhereToEat.Size = new System.Drawing.Size(20, 23);
             this.lblWhereToEat.TabIndex = 3;
             this.lblWhereToEat.Text = "[]";
-            this.lblWhereToEat.Click += new System.EventHandler(this.lblWhereToEat_Click);
+            
             // 
             // lblCrust
             // 

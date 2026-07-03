@@ -327,19 +327,6 @@ namespace Pizza_Store
             UpdateCrust();
         }
 
-        private void labelTopping_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblWhereToEat_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void grOrderSummary_Enter(object sender, EventArgs e)
-        {
-
-        }
+      
     }
 }
